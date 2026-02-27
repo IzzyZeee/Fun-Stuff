@@ -1,0 +1,101 @@
+Here's some brainstorming of what I can add next. The goal is to explore features of JS and see what I can do.
+
+AI (Actually Izzy)
+- "AI" chatbot (not actually AI, just has pre-programmed responses for certain things)
+- Input text
+- Outputs text
+- Will output the same thing unless certain things are said (special input)
+- Can have a "random chat" button where, when pressed, just outputs one of a bunch of preset phrases by random
+- Similar to "random chat", has a "wyd ahh" button
+- Special input ideas:
+    - "a" ("cock")
+    - "A" ("COCK")
+    - "cock"/"dih" ("dawg we lost the shock factor 67 years ago")
+    - "skigumi fushoilet" "skigumi" "fushoilet" ("SKIGUMI MENTION!?!?!?")
+    - "hi" ("HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII <br> in case you're wondering i put 67 I's")
+    - "i wo" ("bro wo")
+    - "bro wo" ("i wo")
+    - "you are my goat" ("sybau menguman i KNOW it's you <br> and you are MYYYYY goat")
+    - "clanker" ("HEY im not a clanker bro im Actually Izzy i swear)
+    - "freakogo" (":P") (or include the emojis somehow)
+    - "1800"/"1 800"/"1-800" ("BEEBEENOSS MENTION!?!?!?! <br> still on that")
+    - "calc" ("calc <br> GOODNIGHT MENGUMI <br> SLEEP WELL MENGUMI <br> BYE MENGUMI) (maybe include the actual calc pics too?)
+    - "iDidNotBowDeepEnough"
+    - "67" ("SIX SEVEN MENTION!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!?!") (yes that's 67 !/?'s)
+    - "bro" ("bro?")
+    - "llll"/"11:11 ahh" ("11:11 MENTION!?!?!?!?!?!") (11 !/?'s lmao)
+    - "do you mow the lawn" ("nah bro it's too cold outside <br> anyway you are the goat fr")
+    - "did i mention that another love was peak" ("YO FOR REAL what the fack bro we have to do another duet")
+    - "what are we" ("we MIGHT be charlie kirk <br> we MIGHT carry the flame <br> we  MIGHT fight for the gospel")
+    - "do you like women" (put entire I Don't Like Women lyrics)
+    - "im gonna fuck an egg"/"i'm gonna fuck an egg" ("of course you are MENGUMAN <br> lemme guess you're gonna ADD PROTEIN")
+    - "** **" ("** **")
+    - "iAuSecours" ("IAUSECOURS MENTION!?!? IHELP MENTION!?!?!?!? TWEAKOUTS MENTION!??!!")
+- Random chat ideas:
+    - "man why the fuck does physics exist"
+    - "the school board is the root of all evil"
+    - "are we french" 
+    - "nah, i'd gamble"
+    - "skigumize it"
+    - "guys gimme your keyboards i need them for SCIENTIFIC purposes"
+    - "i'm so cooked for the 67th time"
+    - "67"
+    - "don't make me use my domain expansion: brick wall" 
+    - "what the flying skig"
+    - "hi tweaking oh wait"
+    - "menguman is literally my goat"
+    - "why is menguman so goated"
+    - "guys i literally cannot get over how goated menguman is"
+"wyd ahh" ideas:
+    - "i'm smashing my keyboard <br> i mean WHAT"
+    - "lowkenuinely nothing"
+    - "i'm tweaking over physics WHAT THE FUCK ELSE WOULD I BE DOING"
+    - "thinking about menguman because he's my goat"
+    - "lowkey wondering how the stars aligned to let me meet menguman"
+    - "arting it fr"
+    - "listening to depressing guitar songs"
+    - "listening to radiohead"
+    - "fucking english"
+    - "watching the new JJK episode"
+    - "doomscrolling on youtube shorts"
+    - "getting lobotomized by instagram reels"
+    - "guitaring it again HELP HOW THE FUCK DO YOU PLAY BARRE CHORDS"
+    - "recording a vocaloid song cover"
+    - "anything but the work i'm supposed to do"
+    - "not thinking about uni"
+    - "writing this dumbahh website for no reason"
+
+PEAK SONGS
+- list of songs i really like
+- each song includes a picture of the cover, the title, artist, length, spotify link, expandable lyrics
+- add option to play the song
+- song ideas (not in order):
+    - another love collab (with the album cover written)
+    - another love
+    - i always fall
+    - 1-800
+    - i don't like women
+    - sailor song
+    - all of me
+    - there is a light that never goes out
+    - nanami's death theme
+    - red swan
+    - eleven eleven
+    - 505
+    - tek it
+    - devil in disguise
+    - meant to be
+    - where'd all the time go
+    - atlantis
+    - be there
+
+FAKE WORDLE
+- basically a wordle dupe
+- include a list of 5-letter words or something (obviously won't include everything but it'd be funny)
+
+GAY COUNTER
+- you can input a message and it'll return the GayCounter code
+- steal code from gay counter lol
+
+DISTRIBUTIVE PROPERTY
+- same as gay counter, it steals code from my previously-written DistributiveProperty code
